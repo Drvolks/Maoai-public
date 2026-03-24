@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="screenshots/app-icon.png" width="128" alt="MiniChat icon">
+  <img src="screenshots/app-icon.png" width="128" alt="Maoai icon">
 </p>
 
-<h1 align="center">MiniChat</h1>
+<h1 align="center">Maoai</h1>
 
 <p align="center">
   <strong>Your AI assistant powered by MiniMax</strong><br>
@@ -38,10 +38,10 @@ Describe what you want and MiniMax creates it. Generate stunning AI images from 
 </p>
 
 ### Native on Every Apple Device
-Built with SwiftUI for a seamless experience on iPhone, iPad, and Mac. MiniChat feels right at home on every platform with native controls, dark mode support, and platform-specific interactions.
+Built with SwiftUI for a seamless experience on iPhone, iPad, and Mac. Maoai feels right at home on every platform with native controls, dark mode support, and platform-specific interactions.
 
 <p align="center">
-  <img src="screenshots/macos-1.png" width="480" alt="MiniChat on macOS">
+  <img src="screenshots/macos-1.png" width="480" alt="Maoai on macOS">
 </p>
 
 ### Conversation History
@@ -80,7 +80,7 @@ Get started in seconds. Enter your MiniMax API token on the welcome screen and y
 
 ## Pricing
 
-MiniChat includes **20 free conversations**. After that, unlock unlimited access with a PRO subscription:
+Maoai includes **20 free conversations**. After that, unlock unlimited access with a PRO subscription:
 
 | Plan | Price |
 |------|-------|
@@ -93,7 +93,7 @@ Usage is subject to the limits of your MiniMax plan.
 
 ## Privacy
 
-MiniChat does not collect any personal data. Your conversations stay on your device and your API token is stored securely in the Keychain. Read our full [Privacy Policy](PRIVACY.md).
+Maoai does not collect any personal data. Your conversations stay on your device and your API token is stored securely in the Keychain. Read our full [Privacy Policy](PRIVACY.md).
 
 ---
 
