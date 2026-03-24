@@ -15,11 +15,20 @@ Maoai does **not** collect any personal data. Specifically:
 - We do not collect crash reports
 - We do not collect device identifiers
 
-## API Communication
+## Data Shared with Third-Party AI Service
 
-Maoai communicates directly with the MiniMax API (`api.minimax.io`) using your personal API token. All API requests are made directly from your device to MiniMax's servers. We do not operate any intermediary servers and have no ability to intercept, read, or store your conversations.
+When you send a message or request an image, Maoai transmits the following data directly from your device to **MiniMax** (`api.minimax.io`), a third-party AI service:
 
-Your interactions with the MiniMax API are subject to [MiniMax's privacy policy](https://platform.minimax.io).
+- **Text prompts** — the messages you type in a conversation
+- **Conversation context** — prior messages in the current conversation, sent so the AI can provide contextual responses
+- **Image generation prompts** — text descriptions you provide when requesting an image
+- **API token** — your personal MiniMax API token, used to authenticate requests
+
+**No data is sent to MiniMax until you explicitly choose to send a message or generate an image.** The app requests your consent before any data is transmitted by requiring you to enter your own API token and acknowledge this data sharing on the welcome screen. No background or automatic data transmission occurs.
+
+We do not operate any intermediary servers. All communication happens directly between your device and MiniMax's servers. We have no ability to intercept, read, or store your conversations or prompts.
+
+Your interactions with MiniMax are subject to [MiniMax's privacy policy](https://platform.minimax.io) and [terms of service](https://platform.minimax.io).
 
 ## Data Storage
 
