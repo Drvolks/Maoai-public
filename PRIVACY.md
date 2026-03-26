@@ -12,7 +12,7 @@ Maoai does **not** collect any personal data. Specifically:
 
 - We do not collect analytics or usage data
 - We do not use tracking or advertising frameworks
-- We do not collect crash reports
+- **Crash reports** may be collected by Apple if you opt in via your device's privacy settings (Settings > Privacy > Analytics). These reports are available to us in App Store Connect and help us fix bugs. We do not use any third-party crash reporting tools
 - We do not collect device identifiers
 
 ## Data Shared with Third-Party AI Service
@@ -62,6 +62,7 @@ Maoai integrates with the following third-party services:
 | MiniMax API | AI responses and image generation | Your prompts and conversation history (sent directly from your device) |
 | Apple iCloud (optional) | Conversation sync | Conversation data (via your personal iCloud account) |
 | Apple StoreKit | In-app subscriptions | Purchase transactions (managed entirely by Apple) |
+| Apple Crash Reporting (opt-in) | Bug fixes and stability | Crash logs and device diagnostics (managed by Apple, opt-in via device settings) |
 
 ## Children's Privacy
 
